@@ -1,0 +1,10 @@
+# My configurations:
+*.sh
+*.log
+*.iml
+/.idea
+*/target
+*.private.properties
+mybatisGeneratorConfiguration.xml
+application.yml
+
